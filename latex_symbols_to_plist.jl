@@ -4,6 +4,7 @@ This can be dragged into System Preferences > Keyboard > Text pane on Mac OS.
 Uses julia latex symbols definitions in dictionary latex_symbols.jl
 
 Simon de Szoeke
+adapted from  UnicodeCompletion/latex_symbols.jl 
 =#
 
 include(joinpath(JULIA_HOME, "..", "share", "julia", "base", "latex_symbols.jl"));
