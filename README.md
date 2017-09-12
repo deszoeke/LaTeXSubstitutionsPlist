@@ -1,7 +1,7 @@
 # LaTeXSusbstitutionsPlist
 Replace LaTeX math escape strings with unicode characters in Mac OS by building Text Subsitutions.plist. 
 
-This takes more than 2400 LaTeX math escape strings (e.g. \alpha) from a builtin dictionary in the Julia language and formats them as the Mac OS file "Text Substitutions.plist"
+This takes more than 2400 LaTeX math escape strings (e.g. \alpha) from a built-in dictionary in the Julia language and formats them as the Mac OS file "Text Substitutions.plist"
 
 # Instructions
 
