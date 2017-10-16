@@ -3,7 +3,7 @@ Replace LaTeX math escape strings with unicode characters in Mac OS by building 
 
 This takes more than 2400 LaTeX math escape strings (e.g. `\alpha`) from a built-in dictionary in the Julia language and formats them as the Mac OS file "Text Substitutions.plist." In some native apps (e.g. Mail, Safari), Mac OS replaces replaces these strings as it would shortcut phrases or emoticons.
 
-After trying this out, Mac OS is way to eager to replace correctly spelled words with characters most people have never head of. I recommend paring down the list of substitutions to those characters you commonly use. Mac OS Text Substitutions does not require one to type the backslash in order to substitute. If it did, these substitutions would be more effectively escaped.
+After trying this out, Mac OS is way too eager to replace correctly spelled words with characters most people have never head of. I recommend paring down the list of substitutions to those characters you commonly use. Mac OS Text Substitutions does not require one to type the backslash in order to substitute. If it did, these substitutions would be more effectively escaped.
 
 # Instructions
 
